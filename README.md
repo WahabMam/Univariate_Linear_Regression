@@ -4,11 +4,11 @@ This repository contains a simple lab or exercise for univariate linear regressi
 
 ## Overview
 
-This exercise is part of a course on Coursera, specifically from the Andrew Ng's machine learning course. The purpose of this repository is to serve as a reference and guide for anyone interested in understanding and implementing univariate linear regression.
+This exercise is part of a course on Coursera, specifically from the Andrew Ng's machine learning specializaion course. The purpose of this repository is to serve as a reference and guide for anyone interested in understanding and implementing univariate linear regression.
 
 ## Contents
 
-- **Linear_Regression_Exercise.ipynb:** This Jupyter Notebook contains the code and instructions for the univariate linear regression exercise.
+- **Linear_Regression_Exercise.ipynb:** This Jupyter Notebook contains the code and instructions for the univariate linear regression exercise (both pdf and notebook).
 
 ## Instructions
 
