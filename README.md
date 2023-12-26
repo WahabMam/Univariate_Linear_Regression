@@ -14,7 +14,7 @@ This exercise is part of a course on Coursera, specifically from the Andrew Ng's
 
 1. Clone the repository to your local machine.
    ```bash
-   [ https://github.com/WahabMam/Univariate_Linear_Regression/tree/main] 
+   [https://github.com/WahabMam/Univariate_Linear_Regression/tree/main] 
 ## Note
 
 Feel free to refer to the original Coursera course for additional context and deeper understanding.
