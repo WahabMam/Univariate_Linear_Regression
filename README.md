@@ -14,5 +14,4 @@ This exercise is part of a course on Coursera, specifically from the Andrew Ng's
 
 1. Clone the repository to your local machine.
    ```bash
-   [git clone https://github.com//linear-regression-exercise.git
-](https://github.com/WahabMam/Univariate_Linear_Regression/edit/main/README.md)https://github.com/WahabMam/Univariate_Linear_Regression/edit/main/README.md
+   [ https://github.com/WahabMam/Univariate_Linear_Regression/tree/main] 
